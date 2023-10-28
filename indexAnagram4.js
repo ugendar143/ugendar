@@ -7,8 +7,8 @@ function findLength(num){
     }
     return len
 }
-let n=5001
-let m=1235
+let n=4221
+let m=1245
 let nLen = findLength(n)
 let mLen = findLength(m)
 if(nLen == mLen){
